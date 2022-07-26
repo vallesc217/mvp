@@ -1,0 +1,19 @@
+1.	ENTRAR A POWER AUTOMATE
+Ingresar al Outlook y ubicar en la parte superior izquierda el botón de iniciador de aplicaciones  
+Luego en la ventana desplegada ubicar botón de Power Automate 
+
+
+2.	UBICAR FLUJO PARA SU ACTIVACION
+Una vez dentro de la aplicación se despliega la ventana de bienvenida y deberemos ir a:
+ Mis flujos / Compartido conmigo / Seguimiento MVPBCP
+
+
+3.	INGRESO  Y EJECUCION DEL FLUJO
+Ubicado dentro del flujo Seguimiento MVPBCP solo hacer clic sobre botón ejecutar, asi se lanza la aplicación y se procede con el siguiente paso.
+
+4.	LLENADO DE FORMULARIO E INICIO DEL FLUJO
+En el lado derecho de despliega un formulario a llenar con los datos de la tarea a realizar, aquí se incluirá la información del MVP tales como quien ejecuta la tarea, identificación de la tarea, tipo, criticidad, hora y fecha de inicio, hora y fecha de finalización, comentario. Una vez concluido el llenado del formulario hacer clic sobre el botón Ejecutar flujo para iniciar el flujo.
+
+5.	EJECUCION SATISFACTORIA DE FLUJO
+Luego de ejecutado el flujo aparecerá un mensaje de que el flujo se ha ejecutado correctamente, lo que significara que ya la tarea ha sido incluida en el registro de Excel del SharePoint de TEAM BCP, igualmente se ha registrado la tarea en el PLANNER para dar seguimiento al MVP en sus 3 fases identificadas como criticas (en proceso, ratificación y resultado del MVP). Finalmente llegara un mensaje de recordatorio al correo electrónico del Agile para compartir con algún miembro del equipo o cadena de seguimiento en caso de ser requerido.
+
