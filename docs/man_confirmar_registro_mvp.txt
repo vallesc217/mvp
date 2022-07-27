@@ -1,0 +1,46 @@
+TALENT POOL / PLAN DE MEJORA CONTINUA
+SEGUIMIENTO DE MVPBCP
+(MANUAL PARA CONFIRMAR EJECUCION DEL PROCESO 
+DE FLUJO AUTOMATIZADO DE MVPBCP)
+
+
+1.	ENTRAR A SHAREPOINT
+Ingresar al SharePoint de TIVIT e ir  a:
+Equipos / Registro de Horas / Archivos / Propuesta Registro de Horas / Kronos – Registro MVPBCP.xlsx
+ 
+
+2.	INGRESAR AL ARCHIVO EXCEL DEL SHAREPOINT Y REVISAR REGISTRO 
+Al hacer clic sobre el documento .xlsx se abre la ventana de registros realizados durante la ejecución del flujo. Allí podremos observar nuestro registro incorporado al proceso de forma automática.
+
+3.	ENTRAR EN PLANNER
+Ingresar al Outlook y ubicar en la parte superior izquierda el botón de iniciador de aplicaciones  
+Luego en la ventana desplegada ubicar botón de PLANNER
+  
+
+4.	UBICAR PLAN PARA SU SEGUIMIENTO
+Una vez dentro de la aplicación se despliega la ventana de bienvenida y deberemos ir a:
+Team BCP / Panel / En proceso (carril de seguimiento)
+ 
+
+5.	SEGUIMIENTO MANUAL DEL MVP
+Ubicado dentro del flujo Seguimiento MVPBCP solo debemos actualizar nuestro usuario en la asignación del proceso, haciendo clic sobre botón con el nombre del MVPBCP, asi se lanza la aplicación y se procede con el siguiente paso.
+ 
+Al hacer clic se abre la ventana del MVPBCP, ubicamos el botón de asignar y seleccionamos nuestro usuario.
+Podemos opcionalmente agregar progreso, prioridad, datos adjuntos y comentarios en caso de ser requeridos para el seguimiento del MVPBCP. 
+ 
+
+6.	CAMBIO DE CARRIL RATIFICACION
+Una vez concluida las instrucciones del MVPBCP, se procede a enviar al carril de Ratificación para su seguimiento, arrastrando con el mouse la tarea del carril EN PROCESO al carril EN RATIFICACION .
+ 
+7.	CAMBIO DE ESTADO FINAL DEL PASE
+Una vez concluida la RATIFICACION, del mismo modo se procede a enviar al carril de Estado Final del Pase para su registro y control, arrastrando con el mouse la tarea del carril EN RATIFICACION al carril ESTADO FINAL DEL PASE. 
+Hacemos clic sobre la tarea y marcamos en el ítem Progreso: Completado. Y de acuerdo a su resultado cambiamos el color del MVPBCP, siguiendo el siguiente esquema:
+CEREZA = CANCELADO
+VERDE OSCURO = ATENDIDO
+NARANJA = RECHAZADO
+AZUL CLARO = REVERSION ADMINISTRATIVA
+GRIS OSCURO = REVERSION
+ 
+8.	ENTRAR EN OUTLOOK
+Ingresar al Outlook y ubicar el correo con el asunto del MVPBCP, donde se desplegara la asignación de la tarea al AGILEOPS y podrá enviar a quien corresponda en caso de ser requerido. Culminando exitosamente el proceso de confirmación del MVPBCP.
+
