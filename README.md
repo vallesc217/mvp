@@ -11,3 +11,4 @@ acividades.
 Se entrega documento para realizar la autorevision del registro realizado por el operador de
 despliegues, tambien se coordina para establecer fechas de implementacion y puesta en marcha del proyecto.
 No olvidar hacer a diario.
+Proyecto detenido hasta nuevo AVISO
